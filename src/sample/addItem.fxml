@@ -17,17 +17,17 @@
             </Label>
          </children>
       </AnchorPane>
-      <Label fx:id="noTasksLabel" layoutX="297.0" layoutY="153.0" text="Chillera!" textFill="WHITE">
+      <Label fx:id="noTasksLabel" layoutX="271.0" layoutY="153.0" text="Nothing to do!" textFill="WHITE">
          <font>
             <Font size="24.0" />
          </font>
       </Label>
-      <ImageView fx:id="noTasksImage" fitHeight="43.0" fitWidth="38.0" layoutX="399.0" layoutY="152.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="noTasksImage" fitHeight="43.0" fitWidth="38.0" layoutX="436.0" layoutY="152.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@assets/icons8-party-popper-96.png" />
          </image>
       </ImageView>
-      <ImageView fx:id="addButton" fitHeight="68.0" fitWidth="80.0" layoutX="316.0" layoutY="240.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="addButton" fitHeight="68.0" fitWidth="80.0" layoutX="316.0" layoutY="270.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@assets/baseline_add_circle_black_48dp.png" />
          </image>
